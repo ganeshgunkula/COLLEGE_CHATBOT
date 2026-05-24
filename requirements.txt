@@ -1,7 +1,6 @@
 flask==3.0.0
 gunicorn==22.0.0
 chatterbot==1.2.8
-chatterbot-corpus==1.2.0
 google-generativeai==0.6.0
 python-dotenv==1.0.1
 SQLAlchemy==2.0.30
