@@ -1,0 +1,9 @@
+categories:
+- general
+conversations:
+- - What is AI?
+  - Artificial Intelligence is the simulation of human intelligence in machines.
+- - What is NLP?
+  - NLP stands for Natural Language Processing. It allows computers to understand and respond to human language.
+- - How does this chatbot work?
+  - It uses NLP to match your question to a trained dataset and ChatGPT for anything it doesn’t know.

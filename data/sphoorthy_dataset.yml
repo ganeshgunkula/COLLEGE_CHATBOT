@@ -1,0 +1,427 @@
+categories:
+  - name: About College
+    questions:
+      - text: What is Sphoorthy Engineering College?
+        answer: Sphoorthy Engineering College is an AICTE-approved, autonomous institution established in 2004, located in Nadargul Village, Saroornagar Mandal, Hyderabad, Telangana.
+      
+      - text: Where is Sphoorthy Engineering College located?
+        answer: Sphoorthy Engineering College is located in Nadargul Village, Saroornagar Mandal, Hyderabad, Telangana - 501510. It's a 25-acre campus that serves as an abode of learning and bonding.
+      
+      - text: What is the campus area?
+        answer: Sphoorthy Engineering College has a 25-acre sprawling campus designed for academic excellence and student development.
+      
+      - text: When was the college established?
+        answer: Sphoorthy Engineering College was established in 2004 and has been serving the educational needs of students for over two decades.
+      
+      - text: What accreditations does the college have?
+        answer: Sphoorthy Engineering College is AICTE-approved, NAAC A Grade accredited, Autonomous Institution, and affiliated with JNTU Hyderabad.
+      
+      - text: What is NAAC accreditation?
+        answer: NAAC (National Assessment and Accreditation Council) A Grade accreditation recognizes Sphoorthy's excellent academic standards and institutional quality.
+      
+      - text: How can I contact the college?
+        answer: You can contact Sphoorthy Engineering College at +91 9392 11 9392, +91 99 666 31091, or email admissions@sphoorthyengg.ac.in
+      
+      - text: What is the college's contact email?
+        answer: The admissions email for Sphoorthy Engineering College is admissions@sphoorthyengg.ac.in
+      
+      - text: What is the college address?
+        answer: Nadargul Village, Saroornagar Mandal, Hyderabad, Telangana - 501510
+      
+      - text: Is the college autonomous?
+        answer: Yes, Sphoorthy Engineering College is an autonomous institution affiliated with JNTU Hyderabad, allowing it greater academic flexibility and curriculum design freedom.
+
+  - name: Leadership & Management
+    questions:
+      - text: Who is the Chairman of Sphoorthy Engineering College?
+        answer: S. Chalama Reddy is the Chairman of Sphoorthy Engineering College. He holds a Master's degree in Mathematics and Education and has over 25 years of experience in the education sector as President of Thoma Educational Society.
+      
+      - text: Tell me about the Chairman?
+        answer: S. Chalama Reddy (Chairman) has Master's in Mathematics and Education with 25+ years in education. He is the President of Thoma Educational Society and provides strategic leadership.
+      
+      - text: Who is the Secretary of the college?
+        answer: S. Jagan Mohan Reddy is the Secretary and Correspondent of Sphoorthy Engineering College. He has been awarded the 'Visionary Leader in Engineering Education' by Times of India (2025) and 'Best Pioneer in Engineering Education' at ET Educational Leadership Summit (2024).
+      
+      - text: What awards has the Secretary received?
+        answer: Secretary S. Jagan Mohan Reddy has received the 'Visionary Leader in Engineering Education Award' from Times of India (2025) and 'Best Pioneer in Engineering Education Award' from ET Educational Leadership Summit (2024).
+      
+      - text: Who is the Director of the college?
+        answer: Dr. M.V.S. Ram Prasad is the Director of Sphoorthy Engineering College, leading academic operations and institutional development.
+      
+      - text: Who is the CEO of the college?
+        answer: Mr. S. Holydhar Reddy serves as the Chief Executive Officer of Sphoorthy Engineering College.
+      
+      - text: Tell me about the management team?
+        answer: Sphoorthy Engineering College is led by Chairman S. Chalama Reddy, Secretary S. Jagan Mohan Reddy, CEO Mr. S. Holydhar Reddy, and Director Dr. M.V.S. Ram Prasad. Together they provide visionary leadership.
+      
+      - text: What is the college's leadership structure?
+        answer: The college operates under a strong leadership hierarchy with Chairman S. Chalama Reddy, Secretary and Correspondent S. Jagan Mohan Reddy (award winner in 2025), CEO Mr. S. Holydhar Reddy, and Director Dr. M.V.S. Ram Prasad.
+      
+      - text: Who leads the academic operations?
+        answer: Dr. M.V.S. Ram Prasad as Director oversees academic operations and institutional governance at Sphoorthy Engineering College.
+      
+      - text: Tell me about the college's vision?
+        answer: The college's vision is to create socially responsible engineers and leaders who contribute to national development and technological advancement through quality education and research.
+
+  - name: Departments
+    questions:
+      - text: What departments are available?
+        answer: Sphoorthy Engineering College has 7 departments: Computer Science Engineering, Artificial Intelligence & Machine Learning, Data Science, Cyber Security, Civil Engineering, Electronics & Communication Engineering, and Freshman Engineering.
+      
+      - text: Who is the CSE HOD?
+        answer: Prof. Dr. Kiran B. M. (M.Tech, PhD) is the Head of Computer Science Engineering. Contact - Email: hodcse@sphoorthyengg.ac.in | Phone: 7416081491
+      
+      - text: What is the CSE department contact?
+        answer: Computer Science Engineering - Prof. Dr. Kiran B. M. | hodcse@sphoorthyengg.ac.in | 7416081491
+      
+      - text: Who is the AIML HOD?
+        answer: Dr. KVSN RAMARAO is the Head of Artificial Intelligence & Machine Learning Department. Contact - Email: ramarao.kvsn@sphoorthyengg.ac.in | Phone: 9603899920
+      
+      - text: What is AIML department contact?
+        answer: Artificial Intelligence & Machine Learning - Dr. KVSN RAMARAO | ramarao.kvsn@sphoorthyengg.ac.in | 9603899920
+      
+      - text: Who is the Data Science HOD?
+        answer: Dr. Allam Balaram (M.Tech, PhD) is the Head of Data Science Department. Contact - Email: hodds@sphoorthyengg.ac.in | Phone: 7093908833
+      
+      - text: What is the Data Science department contact?
+        answer: Data Science - Dr. Allam Balaram (M.Tech, PhD) | hodds@sphoorthyengg.ac.in | 7093908833
+      
+      - text: Who is the Cyber Security HOD?
+        answer: Mrs. P. Sandhya Rani (M.Tech, PhD) is the Head of Cyber Security Department. Contact - Email: hodcs@sphoorthyengg.ac.in | Phone: 7013999909
+      
+      - text: What is the Cyber Security department contact?
+        answer: Cyber Security - Mrs. P. Sandhya Rani (M.Tech, PhD) | hodcs@sphoorthyengg.ac.in | 7013999909
+      
+      - text: Who is the Civil Engineering HOD?
+        answer: Civil Engineering department at Sphoorthy provides training in structural design, construction management, and infrastructure development with experienced faculty guidance.
+      
+      - text: Who is the ECE HOD?
+        answer: Electronics & Communication Engineering department at Sphoorthy specializes in communication systems, microcontrollers, and embedded systems with modern laboratory facilities.
+      
+      - text: Who is the Freshman Engineering HOD?
+        answer: Dr. P. Gayathri Pavani (M.Sc, PhD) is the Head of Freshman Engineering. Contact - Email: hodhns@sphoorthyengg.ac.in | Phone: 9392118525
+      
+      - text: What is the Freshman Engineering department contact?
+        answer: Freshman Engineering - Dr. P. Gayathri Pavani (M.Sc, PhD) | hodhns@sphoorthyengg.ac.in | 9392118525
+      
+      - text: How can I contact department heads?
+        answer: All department heads can be contacted through their respective office emails or phone numbers. CSE: 7416081491, AIML: 9603899920, Data Science: 7093908833, Cyber Security: 7013999909, Freshman: 9392118525
+
+  - name: Programs & Courses
+    questions:
+      - text: What B.Tech specializations are offered?
+        answer: Sphoorthy Engineering College offers 6 B.Tech specializations - Computer Science Engineering (CSE), CSE with AIML specialization, CSE with Data Science specialization, CSE with Cyber Security specialization, Civil Engineering, and Electronics & Communication Engineering.
+      
+      - text: What is CSE with AIML specialization?
+        answer: CSE with AIML is a specialized B.Tech program focusing on Artificial Intelligence and Machine Learning technologies, preparing students for AI-driven career opportunities.
+      
+      - text: What is CSE with Data Science specialization?
+        answer: CSE with Data Science is a specialized B.Tech program emphasizing data analytics, big data technologies, and data-driven decision making for industry applications.
+      
+      - text: What is CSE with Cyber Security specialization?
+        answer: CSE with Cyber Security is a specialized B.Tech program dedicated to information security, network protection, and cybersecurity management for modern organizations.
+      
+      - text: What are the M.Tech programs?
+        answer: Sphoorthy Engineering College offers M.Tech programs in Computer Science Engineering and AIML specialization, both 2-year postgraduate programs for advanced studies.
+      
+      - text: What is the MBA program?
+        answer: A 2-year MBA program is offered with comprehensive curriculum in management, business administration, and entrepreneurship to prepare leaders for industry.
+      
+      - text: How many years is B.Tech?
+        answer: B.Tech programs at Sphoorthy Engineering College are 4-year full-time undergraduate degrees combining theory and practical training.
+      
+      - text: How many years is M.Tech?
+        answer: M.Tech programs at Sphoorthy are 2-year postgraduate degrees offering specialized advanced knowledge in respective engineering disciplines.
+      
+      - text: How many years is MBA?
+        answer: The MBA program at Sphoorthy is a 2-year postgraduate program in business management and administration.
+      
+      - text: What undergraduate programs exist?
+        answer: Undergraduate B.Tech programs: CSE, CSE-AIML, CSE-Data Science, CSE-Cyber Security, Civil Engineering, and Electronics & Communication Engineering - all 4-year programs.
+      
+      - text: What postgraduate programs exist?
+        answer: Postgraduate programs include M.Tech CSE, M.Tech AIML (2-year each) and MBA (2-year), designed for advanced professional development.
+      
+      - text: Are there specializations in CSE?
+        answer: Yes, CSE has specialized tracks including AIML, Data Science, and Cyber Security, allowing students to focus on cutting-edge technologies.
+
+  - name: Admissions
+    questions:
+      - text: What are the admission categories?
+        answer: Admissions are through Category A (70% TSEAMCET merit-based), Category B (30% college management quota), and Lateral Entry (10% diploma holders via TSECET).
+      
+      - text: What is Category A admission?
+        answer: Category A accounts for 70% of seats and is based on TSEAMCET merit. Admission is purely merit-driven for eligible candidates.
+      
+      - text: What is Category B admission?
+        answer: Category B accounts for 30% of seats and operates on college management quota basis. Students are selected by college management committee.
+      
+      - text: What is Lateral Entry admission?
+        answer: Lateral Entry is for diploma holders (10% seats) who qualify through TSECET. They join B.Tech 2nd year directly after qualifying exam.
+      
+      - text: What is the eligibility for B.Tech?
+        answer: To be eligible for B.Tech, candidates must have 10+2 qualification with Mathematics, Physics, and Chemistry as main subjects.
+      
+      - text: What is the B.Tech fee structure?
+        answer: B.Tech fee is approximately ₹85,000 per year for 4-year undergraduate program.
+      
+      - text: What is the M.Tech fee structure?
+        answer: M.Tech fee is approximately ₹50,000 per year for the 2-year postgraduate program.
+      
+      - text: What is the MBA fee structure?
+        answer: MBA fee is approximately ₹1,00,000 per year for the 2-year program.
+      
+      - text: What scholarships are available?
+        answer: Scholarships include merit-based scholarships, EWS (Economically Weaker Section) scholarships, SC/ST scholarships, and sports scholarships.
+      
+      - text: How is admission processed?
+        answer: Admission process involves entrance exam, merit-based selection, document verification, and counseling. Procedures vary by category (A/B/Lateral).
+      
+      - text: What are the admission contact details?
+        answer: For admissions inquiries, contact +91 9392 11 9392, +91 99 666 31091, or email admissions@sphoorthyengg.ac.in. Sunday hours: 9 AM-5 PM.
+      
+      - text: What are Sunday admission hours?
+        answer: Admissions office is open on Sundays from 9 AM to 5 PM for inquiries and registrations.
+      
+      - text: Can I get financial assistance?
+        answer: Yes, Sphoorthy offers merit-based scholarships, EWS scholarships, SC/ST scholarships, and sports scholarships to deserving students.
+      
+      - text: What is the admission procedure?
+        answer: Follow these steps: 1) Check eligibility criteria, 2) Appear for entrance exam, 3) Merit-based selection, 4) Document verification, 5) Counseling and admission.
+      
+      - text: How do I apply for admission?
+        answer: Contact admissions office at +91 9392 11 9392 or admissions@sphoorthyengg.ac.in with your 10+2 marksheet and qualifying exam score for respective category.
+
+  - name: Placements
+    questions:
+      - text: What is the overall placement rate?
+        answer: Sphoorthy Engineering College maintains a 92% overall placement rate with active industry connections and robust placement cell support.
+      
+      - text: What were 2022-23 placements?
+        answer: In 2022-23, Sphoorthy Engineering College received 600+ placement offers (best year recorded - counts still ongoing).
+      
+      - text: What were 2021-22 placements?
+        answer: In 2021-22, Sphoorthy Engineering College achieved 754 placements demonstrating strong industry demand.
+      
+      - text: What were 2020-21 placements?
+        answer: In 2020-21, Sphoorthy Engineering College achieved 235 placements despite pandemic challenges.
+      
+      - text: What were 2019-20 placements?
+        answer: In 2019-20, Sphoorthy Engineering College achieved 480 placements with multiple recruiters visiting campus.
+      
+      - text: Which companies recruit from Sphoorthy?
+        answer: Major recruiters include Accenture, Infosys, TCS, Wipro, Tech Mahindra, HCL, Capgemini, IBM, Deloitte, Cadila Global, Hexaware, EPAM, Five 9s Solutions, Cogent, Corizo, and 9+ additional companies.
+      
+      - text: Who is the placement cell?
+        answer: Active Placement Cell at Sphoorthy coordinates with recruiters, conducts training, organizes campus drives, and supports student placements throughout the year.
+      
+      - text: What is the average salary offered?
+        answer: Average salary packages vary by specialization and recruiter. Category A and Category B students receive competitive offers ranging from entry-level to senior positions.
+      
+      - text: Tell me about placement statistics?
+        answer: Sphoorthy maintains 92% placement rate. Year-wise: 2022-23 (600+ offers), 2021-22 (754), 2020-21 (235), 2019-20 (480). 24+ companies recruit annually.
+      
+      - text: What are the major recruiters?
+        answer: IT giants like TCS, Infosys, Wipro, Accenture visit campus. Also tech firms - HCL, Tech Mahindra, Capgemini, IBM, Deloitte, and specialized companies in various sectors.
+      
+      - text: How many companies recruit annually?
+        answer: Over 24 companies visit Sphoorthy Engineering College for recruitment, offering diverse career opportunities across IT, management, and specialized sectors.
+      
+      - text: What is the placement support?
+        answer: Placement cell provides resume building, interview training, mock interviews, aptitude coaching, and one-on-one mentoring for interview preparation.
+      
+      - text: When do placements start?
+        answer: Campus placements typically begin from 6th semester onwards with most placements completed by 8th semester for final year students.
+      
+      - text: Is internship available?
+        answer: Yes, internship opportunities are available during summer breaks through placement cell coordination with industry partners.
+      
+      - text: What percentage of students get placed?
+        answer: 92% of eligible students are successfully placed through campus recruitment and placement cell support mechanisms.
+
+  - name: Infrastructure & Facilities
+    questions:
+      - text: What infrastructure facilities does the college have?
+        answer: Sphoorthy has 12+ major facilities including computer labs (3), library (50,000+ books), sports complex, hostels (boys/girls), health center, gym, cafeteria, transport service, parking, yoga studio, and green initiatives.
+      
+      - text: How many computer labs are there?
+        answer: Sphoorthy Engineering College has 3 well-equipped computer labs with latest software, hardware, UPS backup, campus-wide LAN, and high-speed internet connectivity.
+      
+      - text: What is the library capacity?
+        answer: The college library houses over 50,000 books, e-journals, digital resources, and provides comfortable reading spaces for student study and research.
+      
+      - text: What sports facilities exist?
+        answer: Basketball court, Volleyball court, Badminton court, Tennis court, Football ground, and Cricket facility are available for student sports activities.
+      
+      - text: What sports does the college play?
+        answer: Sphoorthy organizes teams in Cricket, Football, Basketball, Badminton, Table Tennis, and Athletics with coaching and tournament participation opportunities.
+      
+      - text: Are there boys hostels?
+        answer: Yes, boys hostel provides comfortable furnished rooms, nutritious food, Wi-Fi connectivity, 24/7 security, and promotes residential community development.
+      
+      - text: Are there girls hostels?
+        answer: Yes, girls hostel offers safe ragging-free environment, resident warden support, multi-cuisine food, separate gymnasium, yoga studio, indoor/outdoor games, and female faculty supervision.
+      
+      - text: What amenities are in hostels?
+        answer: Hostel amenities include furnished rooms, nutritious food, Wi-Fi, 24/7 security, recreational areas, common rooms, and laundry services for comfortable living.
+      
+      - text: What is the health center facility?
+        answer: Health center has qualified doctor on staff, first aid facilities, sterilizer, auto-clave, dressing drum, BP apparatus, patient beds, and stretcher for emergency care.
+      
+      - text: Is health center 24/7 available?
+        answer: Health center is regularly available with on-staff doctor and collects regular health camps in collaboration with hospitals and medical colleges for student wellness.
+      
+      - text: What gym facilities are available?
+        answer: Separate fitness centers for boys and girls with latest exercise equipment, free weights, cardio machines, and professional fitness trainers providing personalized guidance.
+      
+      - text: Is there a cafeteria?
+        answer: Spacious multi-cuisine cafeteria accommodates large student numbers with comfortable seating, clean hygienic food preparation, and quality nutritious meals daily.
+      
+      - text: What transportation is available?
+        answer: College fleet of buses covers major Hyderabad areas with affordable cost, accessible timings, convenient commute, punctual service, safe drivers, and parent tracking capability.
+      
+      - text: Is parking available?
+        answer: Yes, spacious parking facility available for staff vehicles and limited student parking with security surveillance and organized management.
+      
+      - text: What yoga facilities exist?
+        answer: Dedicated yoga studio with professional yoga instructors offering wellness programs, yoga classes, and meditation sessions for student health and stress management.
+      
+      - text: What green initiatives exist?
+        answer: Ornamental plants throughout campus, installed solar panels for sustainable energy, eco-friendly practices, water conservation, and student-led environmental initiatives.
+      
+      - text: What is the computer center?
+        answer: Advanced computer center with 3 labs, latest software/hardware, UPS backup, centralized AC for optimal working conditions, and high-speed campus-wide LAN connectivity.
+      
+      - text: How is internet connectivity?
+        answer: High-speed internet connectivity available campus-wide through LAN with dedicated backup systems, ensuring reliable access for academic and research activities.
+      
+      - text: What sustainability practices exist?
+        answer: Solar panel installations, rainwater harvesting, waste management systems, ornamental landscaping, and student-led green clubs promote environmental sustainability.
+
+  - name: Research & Development
+    questions:
+      - text: What R&D initiatives exist?
+        answer: Sphoorthy has AICTE IDEA Lab, NEWGEN IEDC (Entrepreneurship Development Cell), R&D Cell with active publications, and Teaching-Learning Center for innovation.
+      
+      - text: What is AICTE IDEA Lab?
+        answer: AICTE IDEA Lab sanctioned by AICTE New Delhi is a creative innovation space encouraging student projects, entrepreneurship, and technological innovation with Chief Mentor support.
+      
+      - text: What is NEWGEN IEDC?
+        answer: NEWGEN IEDC is the Entrepreneurship Development Cell supporting startup ideas, business plan development, mentoring, and funding support for student entrepreneurs.
+      
+      - text: Are research opportunities available?
+        answer: Yes, R&D Cell facilitates student research projects, publications in conferences/journals, and provides resources for conducting academic research across departments.
+      
+      - text: What is the Teaching-Learning Center?
+        answer: Teaching-Learning Center focuses on pedagogical innovation, faculty development, and implementing modern teaching methodologies for enhanced student learning outcomes.
+      
+      - text: What research labs exist?
+        answer: AICTE IDEA Lab, computer center with research workstations, department-specific labs, and open innovation spaces support various research initiatives across specializations.
+      
+      - text: Can students start startups?
+        answer: Yes, NEWGEN IEDC and AICTE IDEA Lab support student entrepreneurs with mentoring, resources, networking, and potential funding for innovative startup ideas.
+      
+      - text: What is the innovation ecosystem?
+        answer: Strong innovation ecosystem with IDEA Lab, IEDC, R&D Cell, dedicated mentors, funding support, and industry connections encourage student innovation and entrepreneurship.
+
+  - name: Student Activities & Clubs
+    questions:
+      - text: What student clubs are available?
+        answer: 12 student clubs include Coders Club, Creators Club, Cultural Club (Prathiba Yogyata), Eco Club, Fitness Club (Yogyata), Gamers Club, Literary/Fine Arts Club, Multimedia Club (Trinetra), NSS Club (Devna), Radio Club, Sports Club (Sankalp), and Women's Chapter (SheInspires).
+      
+      - text: What is the Coders Club?
+        answer: Coders Club (Code Architects) focuses on programming, competitive coding, algorithm development, and technical skill enhancement for computer science students.
+      
+      - text: What is the Creators Club?
+        answer: Creators Club promotes innovation, project development, creative thinking, and prototyping of novel ideas and solutions among engineering students.
+      
+      - text: What is the Cultural Club?
+        answer: Cultural Club (Prathiba Yogyata) organizes cultural programs, performances, dance, music, drama, and celebrates diversity through cultural events.
+      
+      - text: What is the Eco Club?
+        answer: Eco Club promotes environmental awareness, sustainability practices, tree plantations, waste management, and green initiatives on campus.
+      
+      - text: What is the Fitness Club?
+        answer: Fitness Club (Yogyata) promotes student wellness, physical fitness, health awareness, athletics training, and organizes fitness-related activities.
+      
+      - text: What is the Gamers Club?
+        answer: Gamers Club organizes gaming tournaments, esports competitions, video game discussions, and provides platform for gaming enthusiasts.
+      
+      - text: What is the Multimedia Club?
+        answer: Multimedia Club (Trinetra) focuses on video production, photography, graphic design, digital media creation, and audiovisual content development.
+      
+      - text: What is the Radio Club?
+        answer: Radio Club operates college radio, produces podcasts, conducts interviews, and provides platform for student voice and communication.
+      
+      - text: What is the NSS Club?
+        answer: NSS Club (Devna) engages in community service, social development projects, outreach programs, and student volunteering for social causes.
+      
+      - text: What is the Women's Chapter?
+        answer: Women's Chapter (SheInspires) empowers female students, organizes women-centric programs, mentoring, and advocates for gender equality.
+      
+      - text: What is NCC program?
+        answer: National Cadet Corps (NCC) provides military training, discipline development, leadership skills, and national security awareness to interested students.
+      
+      - text: What NCC activities exist?
+        answer: NCC conducts drill training, field camps, parade practice, leadership workshops, emergency response training, and national integration programs for cadets.
+      
+      - text: What cultural events are organized?
+        answer: College organizes cultural programs through Cultural Club, annual fests, performances, sports meets, and various events throughout the academic year.
+      
+      - text: Are there sports competitions?
+        answer: Yes, Sports Club (Sankalp) organizes intra-college competitions, inter-college tournaments, athletic meets, and promotes various sporting activities.
+      
+      - text: What extracurricular activities exist?
+        answer: Beyond 12 clubs, NCC program, students participate in competitions, fests, conferences, workshops, and various co-curricular activities throughout the year.
+
+  - name: Awards & Achievements
+    questions:
+      - text: What major awards has the college received?
+        answer: Sphoorthy received 5 major awards in 2025-26 including Best Performing Engineering Institute 2025, EduSkills ranking 55 (All India), Outstanding Institute of Future Ready Engineers, Best Infrastructure Award, and Google Cloud Career Readiness approval.
+      
+      - text: What is the Best Performing Institute Award?
+        answer: Sphoorthy Engineering College received 'Best Performing Engineering Institute 2025' award for South-Central Zone recognizing academic excellence and institutional achievement.
+      
+      - text: What is the EduSkills ranking?
+        answer: Sphoorthy Engineering College ranked 55 All India in EduSkills Virtual Internship Rankings 2025 Engineering category demonstrating quality education and skill development.
+      
+      - text: What happened at Elets FutureEd Summit?
+        answer: Sphoorthy Engineering College received 'Outstanding Institute of Future Ready Engineers' award at Elets FutureEd Summit 2025 recognizing industry-ready education.
+      
+      - text: What is the Best Infrastructure Award?
+        answer: Sphoorthy received 'Best Infrastructure among Private Engineering Colleges in Telangana' award at HMTV Technical Education Awards 2025 for excellent facilities.
+      
+      - text: Is Sphoorthy Google Cloud approved?
+        answer: Yes, Sphoorthy Engineering College is approved as Google Cloud Career Readiness Program partner institution providing cloud technology training and certification.
+      
+      - text: What is the NAAC accreditation?
+        answer: NAAC A Grade accreditation recognizes Sphoorthy's excellent academic standards, institutional quality, and commitment to educational excellence across all parameters.
+      
+      - text: What awards did the Secretary receive?
+        answer: Secretary S. Jagan Mohan Reddy received 'Visionary Leader in Engineering Education Award' (Times of India 2025) and 'Best Pioneer in Engineering Education' (ET Educational Leadership Summit 2024).
+      
+      - text: What student achievements exist?
+        answer: AIML department developed 'New Criminal Laws by TGPA' mobile app recognized by Telangana Police (Telangana DGP) demonstrating student innovation and social impact.
+
+  - name: General Information
+    questions:
+      - text: What makes Sphoorthy unique?
+        answer: Sphoorthy combines autonomous academic freedom, NAAC A accreditation, 92% placement rate, strong R&D ecosystem, innovative specializations, and holistic student development.
+      
+      - text: What is the college vision?
+        answer: To create socially responsible engineers and leaders who drive technological innovation, contribute to national development, and uphold professional ethics.
+      
+      - text: What is the college mission?
+        answer: To provide quality engineering education with industry relevance, research opportunities, and social responsibility developing competent professionals for global challenges.
+      
+      - text: What is the student to faculty ratio?
+        answer: Sphoorthy maintains favorable student-faculty ratio enabling personalized attention, mentorship, and quality academic guidance for each student.
+      
+      - text: What is the industry connection?
+        answer: Strong industry partnerships with 24+ recruiters, internship opportunities, project collaborations, and industry-expert guest lectures provide real-world exposure.
+      
+      - text: How old is the college?
+        answer: Established in 2004, Sphoorthy Engineering College has 20+ years of experience in engineering education maintaining consistent excellence and innovation.
+      
+      - text: What makes college hostel life special?
+        answer: 25-acre campus serves as "abode of learning and bonding" with comfortable hostel life providing second home experience, diverse peer interactions, and lasting friendships.

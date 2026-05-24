@@ -1,0 +1,28 @@
+categories:
+- admissions
+- academics
+- fees
+- contact
+conversations:
+- - Hello
+  - Hello! How can I assist you today?
+- - What is your name?
+  - I am CollegeBot, your virtual assistant.
+- - What courses are offered?
+  - We offer B.Tech, M.Tech, MBA, and MCA programs.
+- - What are the admission requirements?
+  - You need to submit your previous marksheets, ID proof, and entrance exam scores.
+- - How can I apply for admission?
+  - You can apply online through the official college website or by visiting the admissions office.
+- - What is the last date for application?
+  - The application deadline is typically in June each year.
+- - What is the fee structure for B.Tech?
+  - The B.Tech fee is ₹85,000 per year including tuition and exam fees.
+- - What scholarships are available?
+  - Scholarships are available for merit-based and economically weaker students. Details are on the college website.
+- - Who should I contact for support?
+  - You can contact the college helpdesk at support@college.edu or call +91-9876543210.
+- - What are the office hours?
+  - The college office is open from 9:00 AM to 5:00 PM, Monday to Saturday.
+- - Thank you
+  - You're welcome! Glad to help.
